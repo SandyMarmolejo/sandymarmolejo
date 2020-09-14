@@ -1,3 +1,5 @@
+[![Gmail Badge](https://img.shields.io/badge/sandymarmolejoc%40gmail.com-Cont%C3%A1ctame%20por%20email-red?style=flat&logo=Gmail&logoColor=white)](mailto:sandymarmolejoc@gmail.com "Contáctame via email")
+![Número de Visitas](https://views.whatilearened.today/views/github/sandymarmolejo/sandymarmolejo.svg?cache=remove)
 <h3 align="center">Hola, Soy Sandy Marmolejo 👋</h3>
 <h5 align="center">
   <code>
