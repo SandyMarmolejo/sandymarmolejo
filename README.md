@@ -55,7 +55,7 @@
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-md-links" title="MdLinks"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-md-links&theme=nightowl"></a>
+  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-md-links" title="LIM012-fe-md-links"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-md-links&theme=nightowl"></a>
   <a align="right" href="https://github.com/SandyMarmolejo/LIM012-card-validation" title="Card Validation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-card-validation&theme=nightowl"></a>
 </p>
 <br><br>
