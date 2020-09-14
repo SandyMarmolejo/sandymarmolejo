@@ -1,12 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/sandymarmolejoc%40gmail.com-Cont%C3%A1ctame%20por%20email-red?style=flat&logo=Gmail&logoColor=white)](mailto:sandymarmolejoc@gmail.com "Contáctame via email")
+[![Linkedin Badge](https://img.shields.io/badge/-Sandy%20Marmolejo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-marmolejo "Contáctame por Linkedin")
 ![Número de Visitas](https://views.whatilearened.today/views/github/sandymarmolejo/sandymarmolejo.svg?cache=remove)
 <h3 align="center">Hola, Soy Sandy Marmolejo 👋</h3>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/sandy-marmolejo/" title="Mi Linkedin"><img width="22" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/linkedin.svg"></a>
-</code>
-
-</h5>
 <br>
 <p align="center">
  Hola, soy Sandy Marmolejo! Soy Frontend developer con experiencia en React, Angular, Javascript, Node, Firebase, HTML5 y CSS3.
