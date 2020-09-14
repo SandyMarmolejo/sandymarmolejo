@@ -1,7 +1,7 @@
 <h3 align="center">Hola, Soy Sandy Marmolejo 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/sandy-marmolejo/" title="Mi Linkedin"><img width="22" src="images/linkedin.svg"></a>
+    <a href="https://www.linkedin.com/in/sandy-marmolejo/" title="Mi Linkedin"><img width="22" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/linkedin.svg"></a>
 </code>
 
 </h5>
@@ -30,14 +30,14 @@
 <h2 align="center">Lenguajes & Frameworks & Herramientas & Conocimientos</h2>
 
 <p align="center">
- <code><img title="Angular" height="25" src="images/angular.svg"></code>
-  <code><img title="React" height="25" src="images/react2.svg"></code>
-  <code><img title="Node" height="25" src="images/node.svg"></code>
-<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-<code><img title="Firebase" height="25" src="images/firebase.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+ <code><img title="Angular" height="25" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/angular.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/react2.svg"></code>
+  <code><img title="Node" height="25" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/node.svg"></code>
+<code><img title="Javascript" height="25" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/javascript.svg"></code>
+<code><img title="Firebase" height="25" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/firebase.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/html5.svg"></code>
+  <code><img title="CSS3" height="25" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/css.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/SandyMarmolejo/sandymarmolejo/blob/master/images/sass.svg"></code>
  
 </p>
 
