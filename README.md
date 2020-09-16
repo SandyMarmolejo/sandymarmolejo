@@ -41,29 +41,31 @@ Frontend Developer e Ingeniera con experiencia en React, Angular, Javascript, No
 <code><img title="Heroku" height="25" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></code>
 <code><img title="Jest" height="25" src="https://img.shields.io/badge/-jest-red?style=flat-square&logo=jest"></code>
 <code><img title="Eslint" height="25" src="https://img.shields.io/badge/-eslint-blue?style=flat-square&logo=eslint"></code>
-<code><img title="Figma" height="25" src="https://img.shields.io/badge/-figma-violet?style=flat-square&logo=figma"></code>
+<code><img title="Figma" height="25" src="https://img.shields.io/badge/-figma-yellow?style=flat-square&logo=figma"></code>
 
 </p>
 <hr>
 
-<a href="https://github.com/sandymarmolejo" title="Ir al código"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=sandymarmolejo&show_icons=true&theme=buefy"></a>
+<a href="https://github.com/sandymarmolejo" title="Ir al código"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=sandymarmolejo&show_icons=true&theme=ayu-mirage"></a>
 
 <hr>
 
 <h2 align="center">Mis repositorios</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-burger-queen" title="LIM012-fe-burger-queen"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-burger-queen&theme=buefy"></a>
-  <a align="right" href="https://github.com/sandymarmolejo/LIM012-data-lovers" title="Data Lovers"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-data-lovers&theme=buefy"></a>
+  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-burger-queen" title="LIM012-fe-burger-queen"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-burger-queen&theme=ayu-mirage"></a>
+
+  <!-- <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-burger-queen" title="LIM012-fe-burger-queen"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-burger-queen&theme=ayu-mirage"></a> -->
+  <a align="right" href="https://github.com/sandymarmolejo/LIM012-data-lovers" title="Data Lovers"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-data-lovers&theme=ayu-mirage"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-md-links" title="LIM012-fe-md-links"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-md-links&theme=buefy"></a>
-  <a align="right" href="https://github.com/SandyMarmolejo/LIM012-card-validation" title="Card Validation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-card-validation&theme=buefy"></a>
+  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-md-links" title="LIM012-fe-md-links"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-md-links&theme=ayu-mirage"></a>
+  <a align="right" href="https://github.com/SandyMarmolejo/LIM012-card-validation" title="Card Validation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-card-validation&theme=ayu-mirage"></a>
 </p>
 <br><br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h4 align="center"><a href=https://github.com/sandymarmolejo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
