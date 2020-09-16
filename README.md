@@ -53,7 +53,7 @@ Frontend Developer e Ingeniera con experiencia en React, Angular, Javascript, No
 <h2 align="center">Mis repositorios</h2>
 
 <p width="100%" align="center">
-  <a align="right" href="https://github.com/sandymarmolejo/LIM012-fe-burger-queen" title="Burger Queen"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-burger-queen&theme=ayu-mirage"></a>
+  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-burger-queen" title="Burger Queen"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-burger-queen&theme=ayu-mirage"></a>
   <a align="right" href="https://github.com/sandymarmolejo/LIM012-data-lovers" title="Data Lovers"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-data-lovers&theme=ayu-mirage"></a>
 </p>
 <br><br>
