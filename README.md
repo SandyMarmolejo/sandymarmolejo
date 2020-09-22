@@ -1,5 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sandymarmolejoc@gmail.com "Contáctame por Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-marmolejo "Contáctame por Linkedin")
+[![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=flat&logo=blogger&logoColor=white)](https://dev.to/sandymarmolejo "Visita mi blog")
 ![Número de Visitas](https://views.whatilearened.today/views/github/sandymarmolejo/sandymarmolejo.svg?cache=remove)
 
 <h3 align="center">Hola! Soy Sandy Marmolejo 👋</h3>
