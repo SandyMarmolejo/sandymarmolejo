@@ -5,10 +5,7 @@
 <h3 align="center">Hola! Soy Sandy Marmolejo 👋</h3>
 <br>
 <p align="center">
-Frontend Developer e Ingeniera con experiencia en React, Angular, Javascript, Node, Firebase, HTML5 y CSS3.
-  <br>
-  <br>
-  🎓 Me gradué en  Laboratoria 
+Frontend Developer e Ingeniera con experiencia en React, Vue, Javascript, Node, Firebase, HTML5 y CSS3.
   <br>
    <br>
   💻 Me apasiona el desarrollo de soluciones tecnológicas y que aporten de manera positiva a la sociedad. 
@@ -18,13 +15,11 @@ Frontend Developer e Ingeniera con experiencia en React, Angular, Javascript, No
   <br>
      <br>
 </p>
-
 <hr>
 
 <h2 align="center">Lenguajes & Frameworks & Herramientas & Conocimientos</h2>
 
 <p align="center">
- <code><img title="Angular" height="25" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular"></code>
   <code><img title="React" height="25" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react"></code>
   <code><img title="Node" height="25" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></code>
  <code><img title="NPM" height="25" src="https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm"></code>
