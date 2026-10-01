@@ -1,65 +1,140 @@
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sandymarmolejoc@gmail.com "Contáctame por Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-marmolejo "Contáctame por Linkedin")
-[![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=flat&logo=blogger&logoColor=white)](https://dev.to/sandymarmolejo "Visita mi blog")
-![Número de Visitas](https://views.whatilearened.today/views/github/sandymarmolejo/sandymarmolejo.svg?cache=remove)
-
-<h3 align="center">Hola! Soy Sandy Marmolejo 👋</h3>
-<br>
-<p align="center">
-Frontend Developer e Ingeniera con experiencia en React, Vue, Javascript, Node, Firebase, HTML5 y CSS3.
-  <br>
-   <br>
-  💻 Me apasiona el desarrollo de soluciones tecnológicas y que aporten de manera positiva a la sociedad. 
-  <br>
-   <br>
-  📚 Utilizo distintas plataformas online que me permiten seguir aprendiendo sobre programación y creciendo como profesional. 
-  <br>
-     <br>
-</p>
-<hr>
-
-<h2 align="center">Lenguajes & Frameworks & Herramientas & Conocimientos</h2>
+<h1 align="center">Hola, soy Sandy Marmolejo 👋</h1>
 
 <p align="center">
-  <code><img title="React" height="25" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react"></code>
-  <code><img title="Node" height="25" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></code>
- <code><img title="NPM" height="25" src="https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm"></code>
- <code><img title="Typescript" height="25" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"></code>
- <code><img title="Javascript" height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
- <code><img title="Jquery" height="25" src="https://img.shields.io/badge/-jquery-green?style=flat-square&logo=jquery"></code>
-  <code><img title="HTML5" height="25" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code>
-  <code><img title="CSS3" height="25" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></code>
- <code><img title="Bootstrap" height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"></code>
-  <code><img title="SASS" height="25" src="https://img.shields.io/badge/-sass-black?style=flat-square&logo=sass"></code>
-  <code><img title="GIT" height="25" src="https://img.shields.io/badge/-git-black?style=flat-square&logo=git"></code>
- <code><img title="Github" height="25" src="https://img.shields.io/badge/-github-black?style=flat-square&logo=github"></code>
-<code><img title="Firebase" height="25" src="https://img.shields.io/badge/-firebase-black?style=flat-square&logo=firebase"></code>
-<code><img title="Heroku" height="25" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"></code>
-<code><img title="Jest" height="25" src="https://img.shields.io/badge/-jest-red?style=flat-square&logo=jest"></code>
-<code><img title="Eslint" height="25" src="https://img.shields.io/badge/-eslint-blue?style=flat-square&logo=eslint"></code>
-<code><img title="Figma" height="25" src="https://img.shields.io/badge/-figma-yellow?style=flat-square&logo=figma"></code>
-
+  <strong>Full Stack Developer | Angular · TypeScript · Node.js · AWS</strong>
 </p>
-<hr>
 
-<a href="https://github.com/sandymarmolejo" title="Ir al código"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=sandymarmolejo&show_icons=true&theme=ayu-mirage"></a>
-
-<hr>
-
-<h2 align="center">Mis repositorios</h2>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-burger-queen" title="Burger Queen"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-burger-queen&theme=ayu-mirage"></a>
-  <a align="right" href="https://github.com/sandymarmolejo/LIM012-data-lovers" title="Data Lovers"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-data-lovers&theme=ayu-mirage"></a>
+<p align="center">
+  Desarrollo soluciones web que conectan las necesidades del negocio
+  con interfaces claras, servicios backend y datos.
 </p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/sandymarmolejo/LIM012-fe-md-links" title="Md Links"><img align="left" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-fe-md-links&theme=ayu-mirage"></a>
-  <a align="right" href="https://github.com/SandyMarmolejo/LIM012-card-validation" title="Card Validation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sandymarmolejo&repo=LIM012-card-validation&theme=ayu-mirage"></a>
+
+<p align="center">
+  <a href="mailto:sandymarmolejoc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/sandy-marmolejo">
+    <img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="https://sandymarmolejo.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portafolio-334155?style=flat-square&logo=github&logoColor=white" alt="Portafolio">
+  </a>
+  <a href="https://dev.to/sandymarmolejo">
+    <img src="https://img.shields.io/badge/Blog-334155?style=flat-square&logo=devdotto&logoColor=white" alt="Blog">
+  </a>
 </p>
-<br><br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+---
 
-<h4 align="center"><a href=https://github.com/sandymarmolejo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+### Sobre mí
 
+Soy Full Stack Developer e ingeniera de formación, con más de cuatro años
+de experiencia en frontend y alrededor de dos años trabajando también
+en backend.
+
+He desarrollado aplicaciones con **Angular, React y Vue**, así como
+servicios con **Node.js y TypeScript**, integrando APIs REST, bases de
+datos y servicios de AWS.
+
+En el sector financiero, he trabajado en módulos de contratos, garantías,
+tesorería y gestión legal, colaborando con las áreas de Legal, Riesgos,
+Operaciones y Tesorería para convertir sus necesidades en funcionalidades.
+
+Me interesa comprender el proceso detrás de cada requerimiento,
+resolver problemas con autonomía y desarrollar soluciones que sean
+útiles para quienes las utilizan.
+
+### Lo que aporto
+
+- **Desarrollo de extremo a extremo:** interfaces, lógica de negocio,
+  APIs, consultas y procedimientos almacenados.
+- **Cercanía con el negocio:** comunicación con usuarios para entender
+  requerimientos, validar comportamientos y resolver incidencias.
+- **Adaptabilidad técnica:** experiencia trabajando con React, Vue
+  y Angular, y ampliando mi participación hacia backend y servicios cloud.
+- **Mejora de aplicaciones existentes:** mantenimiento, evolución de
+  módulos y participación en migraciones de Angular.
+- **Aprendizaje continuo:** uso de herramientas de IA como apoyo para
+  explorar soluciones, revisar código y mejorar mi flujo de desarrollo.
+
+---
+
+### Stack tecnológico
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3">
+</p>
+
+**Backend y datos**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-334155?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" alt="REST APIs">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square" alt="DynamoDB">
+</p>
+
+Consultas SQL, procedimientos almacenados e integración entre frontend,
+backend y bases de datos.
+
+**Cloud y herramientas**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Claude_Code-334155?style=flat-square" alt="Claude Code">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-334155?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+</p>
+
+Experiencia con **AWS S3, Lambda, Amplify y EventBridge**.
+
+---
+
+### Experiencia aplicada
+
+**Aplicaciones para el sector financiero**
+
+Desarrollo y mantenimiento de módulos internos para gestionar contratos,
+garantías, tesorería y procesos legales. Trabajo con formularios,
+validaciones, archivos y persistencia de información, conectando
+interfaces Angular con servicios Node.js, MySQL y AWS.
+
+**Interfaces web y aplicaciones de negocio**
+
+Experiencia con React, Vue y Angular, adaptándome a distintas bases de
+código, bibliotecas de componentes y necesidades de los usuarios.
+
+**Mentoría**
+
+He sido mentora en Laboratoria, acompañando el aprendizaje de personas
+que inician su camino en tecnología.
+
+---
+
+### Portafolio y código
+
+- [Ver mi portafolio](https://sandymarmolejo.github.io/portfolio/)
+- [Explorar mis repositorios](https://github.com/sandymarmolejo?tab=repositories)
+- [Leer mis publicaciones](https://dev.to/sandymarmolejo)
+
+Parte de mi experiencia corresponde a proyectos corporativos privados.
+En mis repositorios públicos comparto proyectos personales y de aprendizaje.
+
+---
+
+<p align="center">
+  <strong>Conversemos sobre desarrollo web y oportunidades de colaboración.</strong>
+  <br>
+  <a href="mailto:sandymarmolejoc@gmail.com">sandymarmolejoc@gmail.com</a>
+</p>
